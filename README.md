@@ -154,3 +154,5 @@ systemctl status tmplayer
 systemctl start tmplayer
 systemctl enable tmplayer
 ```
+
+![tmplayer](tmplayer.png)
