@@ -5,6 +5,7 @@
 > The simplest user interface. Just press a button to listen a song.
 
 ![tmplayer](tmplayer.jpg)
+![wiring](wiring.jpg)
 
 ## Hardware
 
